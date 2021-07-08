@@ -1,0 +1,2 @@
+application:
+    message: Azure Spring Cloud - Config read from git repo
